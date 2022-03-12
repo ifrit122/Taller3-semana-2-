@@ -1,0 +1,7 @@
+.taller {background-color: gray;
+color: midnightblue;
+text-align: center;
+margin-left: 400px;
+margin-right: 400px;}
+
+.taller:hover{ background-color: bisque;}
